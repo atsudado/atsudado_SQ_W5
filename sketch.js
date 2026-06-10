@@ -76,7 +76,7 @@ const MAZE = [
 // Colours for each tile type — stored as RGB arrays
 const TILE_COLORS = {
   0: [40,  40,  50 ], // floor — dark grey
-  1: [80,  60,  100], // wall  — purple-grey
+  1: [156,  97,  29], // wall  — purple-grey
   2: [40,  40,  50 ], // start — same as floor
   3: [40,  40,  50 ], // coin  — same as floor (coin drawn on top)
   4: [60,  100, 80 ], // exit  — green tint when locked
@@ -484,9 +484,9 @@ function drawWinScreen() {
   fill(255);
   textAlign(CENTER);
   textSize(48);
-  text("You Escaped!", width / 2, height / 2 - 20);
+  text("Level Complete", width / 2, height / 2 - 20);
 
   textSize(16);
   fill(180);
-  text("All coins collected", width / 2, height / 2 + 20);
+  text("You rescued Princess Peach!", width / 2, height / 2 + 20);
 }

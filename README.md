@@ -1,5 +1,6 @@
 # Week 5 Example 3 — Maze with Animated Character and Coins
 
+
 ## Setup and Interaction Instructions
 
 To run the sketch locally, open `index.html` in Google Chrome using Live Server.
@@ -19,11 +20,11 @@ The console will show any errors in your sketch.
 
 | File | Source |
 |------|--------|
-| `assets/images/walking.png` | Slynyrd, Pixelblog 22: Top Down Character Sprites |
-| `assets/images/coin_gold.png` | Bellanger, C., Animated Coins — OpenGameArt.org |
+| `assets/images/walking.png` [1]| From mariouniverse.com |
+| `assets/images/coin_gold.png` [2]| From mariouniverse.com |
 
 ## References
 
-Bellanger, C. n.d. *Animated Coins*. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/animated-coins-0
+[1] NES, C. n.d. *Mario*. mariouniverse.com. Retrieved Jun 10, 2026, from https://www.mariouniverse.com/sprites-nes-smb/
 
-Slynyrd. 2019. *Pixelblog 22: Top Down Character Sprites*. Slynyrd Blog. Retrieved May 1, 2026, from https://www.slynyrd.com/blog/2019/10/21/pixelblog-22-top-down-character-sprites
+[2] NES, C. n.d. *Items*. mariouniverse.com. Retrieved Jun 10, 2026, from https://www.mariouniverse.com/sprites-nes-smb/
