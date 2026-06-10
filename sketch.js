@@ -41,7 +41,7 @@ const COIN = {
   frameWidth:  32,
   frameHeight: 32,
   numFrames:   8,
-  animSpeed:   6,
+  animSpeed:   10,
   scale:       1.5,
 };
 
