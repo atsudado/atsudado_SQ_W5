@@ -1,6 +1,5 @@
 # Week 5 Example 3 — Maze with Animated Character and Coins
 
-
 ## Setup and Interaction Instructions
 
 To run the sketch locally, open `index.html` in Google Chrome using Live Server.
